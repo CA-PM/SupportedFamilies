@@ -1,7 +1,7 @@
 # SupportedFamilies
 A basic table view stylized to match the default CAPC themes which provides the Metric Family and Vendor Certifications supported for a given device.
 
-![](/screenShot.jpg?raw=true "Example Screenshot")
+![](./screenShot.jpg?raw=true "Example Screenshot")
 
 Installation Instructions:
 
